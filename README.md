@@ -1,22 +1,70 @@
-# 💫 About Me:
-I'm Aryan, an aspiring Frontend Developer 🚀 passionate about creating high-quality, responsive web applications. Proficient in React ⚛️, Tailwind CSS 🎨, JavaScript ⚡, GSAP 🎥, Swiper 🖱️, Bootstrap 📏, and the MERN stack 🖥️, I specialize in building intuitive and visually appealing user interfaces.
+<h1 align="center">Hey 👋, I'm Aryan</h1>
+<h3 align="center">Full Stack Developer (MERN) | AI & Data Science Enthusiast 🚀</h3>
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aryanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-h) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.aryan26@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shonty266&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shonty266&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shonty266&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Passionate about building modern, scalable, and intelligent web applications that combine clean UI with smart functionality.  
+  I love turning ideas into interactive experiences using <b>React.js</b>, <b>Node.js</b>, and emerging AI technologies.  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shonty266&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+- 🔭 Currently working on **Cardite** – a SaaS-based Digital Invitation Platform  
+- 🌱 Learning **Machine Learning** and **AI-powered Web Applications**  
+- 💡 Skilled in **React.js**, **Tailwind CSS**, and **Express.js** for creating modern UIs  
+- 💬 Ask me about **Frontend Development**, **MERN Stack**, or **Cloud Deployment**  
+- 📫 Reach me at: **work.aryan26@gmail.com**  
+- 🌐 Portfolio: [a-portfolioo.netlify.app](https://a-portfolioo.netlify.app)  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/aryan-h" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.aryan26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,python,mysql,figma,git,github&perline=8" />
+</p>
+
+---
+
+## 🚀 Highlight Project
+### [🪄 Cardite – Digital Invitation SaaS Platform](https://cardite.in)
+A **production-grade SaaS platform** for creating and sending digital invitations via **link, WhatsApp, or PDF**.  
+Includes **real-time RSVP tracking**, **Razorpay payments**, **auto reminders**, and a powerful **admin dashboard** for analytics & user management.  
+Built with **React.js · Node.js · Express · MongoDB · TailwindCSS · Cloudinary · Chart.js**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🧠 Built **Cardite**, a full-featured SaaS used by real users  
+- 💻 Created multiple production-ready web apps using **React + Node.js**  
+- 🚀 Deployed 10+ live projects on **Netlify** and **Vercel**  
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=5&color=6" />
+</p>
+
+---
+
+⭐ **"Turning ideas into intelligent and impactful digital experiences."**
