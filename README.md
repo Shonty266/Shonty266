@@ -1,5 +1,5 @@
 <!-- ────────────────────────────── -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#8C73D7">Aryan Hinglajia</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#007bff">Aryan</span></h1>
 <h3 align="center">💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer</h3>
 <p align="center">
   <em>Turning ideas into scalable, data-driven, and intelligent digital products.</em>
@@ -23,10 +23,10 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, I focus
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/aryan-h" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:work.aryan26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -41,12 +41,11 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, I focus
 
 ### 🧠 AI & Data Science  
 <p align="center">
-  <!-- Using a mix of skillicons + shields for unsupported libraries -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql&perline=8" /><br>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-005C99?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-007BFF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -67,11 +66,11 @@ Features include:
 
 ## 📈 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=blue_navy&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=blue_navy&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=blue_navy&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
@@ -85,9 +84,9 @@ Features include:
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=8" />
+  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=1E90FF" />
 </p>
 
 ---
 
-<h3 align="center">✨ “Where code meets creativity — and logic meets intelligence.” ✨</h3>
+<h3 align="center">💙 “Where code meets creativity — and logic meets intelligence.” 💙</h3>
