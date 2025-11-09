@@ -85,4 +85,8 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusin
 
 ---
 
-### 🩶 “Where code meets creativity — and logic meets intelligence.” 🩶
+### “Where code meets creativity — and logic meets intelligence.”
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=1E1E1E" alt="Profile Views"/>
+</p>
