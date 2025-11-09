@@ -1,92 +1,90 @@
-<!-- ────────────────────────────── -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#007bff">Aryan</span></h1>
-<h3 align="center">💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer</h3>
-<p align="center">
-  <em>Turning ideas into scalable, data-driven, and intelligent digital products.</em>
-</p>
-<!-- ────────────────────────────── -->
+# 👋 Hey, I'm Aryan Hinglajia  
+### 💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer  
+
+Turning ideas into scalable, data-driven, and intelligent digital products.  
+I enjoy building modern web applications and experimenting with AI-powered solutions that make technology more human-centered.  
 
 ---
 
-### 🧩 About Me  
-🚀 I’m a passionate developer who loves crafting web experiences that merge clean design with powerful backend logic.  
-Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, I focus on bridging **Full Stack Development** and **Machine Learning** to create smarter solutions.
+## 🧩 About Me  
+🚀 Passionate about crafting web experiences that merge design and logic.  
+Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusing on bridging **Full Stack Development** with **Machine Learning**.  
 
-- 🔭 Working on: **Cardite** – A Production-Grade SaaS Digital Invitation Platform  
-- 🌱 Exploring: **Deep Learning, LangChain, and AI-integrated Web Systems**  
-- 💬 Ask me about: **React.js, Node.js, MongoDB, TailwindCSS, AI & Data Science**  
-- 📫 Contact: **[work.aryan26@gmail.com](mailto:work.aryan26@gmail.com)**  
+- 🔭 Working on **Cardite** – a production-grade SaaS digital invitation platform  
+- 🌱 Exploring **Deep Learning**, **LangChain**, and **AI-integrated Web Systems**  
+- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **TailwindCSS**, or **AI/ML**  
+- 📫 Email: [work.aryan26@gmail.com](mailto:work.aryan26@gmail.com)  
 - 🌐 Portfolio: [a-portfolioo.netlify.app](https://a-portfolioo.netlify.app)  
 
 ---
 
-### 🌍 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/aryan-h" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:work.aryan26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=gray)](https://linkedin.com/in/aryan-h)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:work.aryan26@gmail.com)
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
-### 💻 Web & App Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma&perline=8" />
-</p>
+### 🖥️ Web & App Development  
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=gray)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=gray)
+![React](https://img.shields.io/badge/React.js-FFFFFF?style=for-the-badge&logo=react&logoColor=gray)
+![NodeJS](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=gray)
+![ExpressJS](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=gray)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=gray)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=gray)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=gray)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=gray)
+
+---
 
 ### 🧠 AI & Data Science  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql&perline=8" /><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-005C99?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-007BFF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=gray)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=gray)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=gray)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=gray)
+![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=gray)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=gray)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=gray)
 
 ---
 
 ## 🚀 Featured Project  
-### 🪄 [Cardite – Digital Invitation SaaS Platform](https://cardite.in)
-**Cardite** is a **production-grade SaaS** that lets users create and send digital invitations via **link, WhatsApp, or PDF**.  
-Features include:
-- 📋 **Guest list management** & **real-time RSVP tracking**  
-- 🔔 **Auto reminders** & **event notifications**  
-- 💳 **Razorpay integration** for premium templates  
-- 📊 **Admin dashboard** with analytics, user management & reports  
-- ☁️ **Cloudinary-powered media optimization** and **custom domain deployment**
+### [🪄 Cardite – Digital Invitation SaaS Platform](https://cardite.in)
+**Cardite** is a **production-grade SaaS** for creating and sending digital invitations via **link, WhatsApp, or PDF**.  
+
+**Key Features:**
+- 📋 Real-time RSVP tracking & guest list management  
+- 🔔 Auto reminders & event notifications  
+- 💳 Razorpay integration for premium templates  
+- 📊 Admin dashboard with analytics, user management & reports  
+- ☁️ Cloudinary-powered media optimization and custom domain deployment  
 
 **Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · Cloudinary · Chart.js  
 
 ---
 
-## 📈 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=blue_navy&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=blue_navy&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=blue_navy&hide_border=true" height="150" alt="Top Languages" />
-</p>
+## 📊 GitHub Insights  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=graywhite&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=graywhite&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
 ## 🏆 Highlights  
-- 🧠 Built **Cardite**, a full-featured SaaS used by real users  
+- 🧠 Built **Cardite**, a production-grade SaaS used by real users  
 - 🤖 Practicing **AI model integration** and **data visualization** with Python  
 - 💻 Deployed 10+ live projects across **Netlify**, **Vercel**, and **Render**  
 - 🌟 Passionate about **AI-powered web apps** & **intelligent design systems**  
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=1E90FF" />
-</p>
+![Profile Views](https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=gray)
 
 ---
 
-<h3 align="center">💙 “Where code meets creativity — and logic meets intelligence.” 💙</h3>
+### 🩶 “Where code meets creativity — and logic meets intelligence.” 🩶
