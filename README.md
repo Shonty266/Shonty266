@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aryan  
+# 👋 Hey, I'm Aryan 
 ### 💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer  
 
 Turning ideas into scalable, data-driven, and intelligent digital products.  
@@ -19,37 +19,38 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusin
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=gray)](https://linkedin.com/in/aryan-h)
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:work.aryan26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-h)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:work.aryan26@gmail.com)
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
 ### 🖥️ Web & App Development  
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=gray)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=gray)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=gray)
-![React](https://img.shields.io/badge/React.js-FFFFFF?style=for-the-badge&logo=react&logoColor=gray)
-![NodeJS](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=gray)
-![ExpressJS](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=gray)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=gray)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=gray)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=gray)
-![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=gray)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=gray)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=gray)
+![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React.js-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=339933)
+![ExpressJS](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1E1E?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
-### 🧠 AI & Data Science  
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=gray)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=gray)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=gray)
-![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=gray)
-![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=gray)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=gray)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=gray)
+### 🧠 AI, ML & Data Science  
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3776AB)
+![Statistics](https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge&logo=google-analytics&logoColor=9E9E9E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E1E1E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ---
 
@@ -64,14 +65,15 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusin
 - 📊 Admin dashboard with analytics, user management & reports  
 - ☁️ Cloudinary-powered media optimization and custom domain deployment  
 
-**Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · Cloudinary · Chart.js  
+**Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · Cloudinary · Chart.js · Razorpay  
 
 ---
 
 ## 📊 GitHub Insights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=graywhite&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shonty266&theme=graywhite&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=graywhite&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&bg_color=111212&border_color=2a2a2a&title_color=FFFFFF&text_color=CCCCCC&icon_color=61DAFB)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shonty266&background=111212&border=2a2a2a&ring=61DAFB&fire=61DAFB&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=777777)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&bg_color=111212&border_color=2a2a2a&title_color=FFFFFF&text_color=CCCCCC)
 
 ---
 
@@ -80,10 +82,6 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusin
 - 🤖 Practicing **AI model integration** and **data visualization** with Python  
 - 💻 Deployed 10+ live projects across **Netlify**, **Vercel**, and **Render**  
 - 🌟 Passionate about **AI-powered web apps** & **intelligent design systems**  
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=gray)
 
 ---
 
