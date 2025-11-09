@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aryan Hinglajia  
+# 👋 Hey, I'm Aryan  
 ### 💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer  
 
 Turning ideas into scalable, data-driven, and intelligent digital products.  
