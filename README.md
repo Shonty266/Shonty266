@@ -2,17 +2,17 @@
 <h3 align="center">Full Stack Developer (MERN) | AI & Data Science Enthusiast 🚀</h3>
 
 <p align="center">
-  Passionate about building modern, scalable, and intelligent web applications that combine clean UI with smart functionality.  
-  I love turning ideas into interactive experiences using <b>React.js</b>, <b>Node.js</b>, and emerging AI technologies.  
+  Passionate about building intelligent, data-driven, and scalable web applications that combine clean UI with smart automation.  
+  I love turning ideas into interactive experiences using <b>React.js</b>, <b>Node.js</b>, and emerging <b>AI & ML</b> technologies.  
 </p>
 
 ---
 
 ## 💫 About Me
 - 🔭 Currently working on **Cardite** – a SaaS-based Digital Invitation Platform  
-- 🌱 Learning **Machine Learning** and **AI-powered Web Applications**  
-- 💡 Skilled in **React.js**, **Tailwind CSS**, and **Express.js** for creating modern UIs  
-- 💬 Ask me about **Frontend Development**, **MERN Stack**, or **Cloud Deployment**  
+- 🌱 Learning **Machine Learning**, **Deep Learning**, and **AI-integrated Web Applications**  
+- 💡 Skilled in **React.js**, **Tailwind CSS**, **Express.js**, and **Python (Pandas, NumPy, Scikit-learn)**  
+- 💬 Ask me about **Frontend Development**, **Full Stack Projects**, or **AI & Data Science Concepts**  
 - 📫 Reach me at: **work.aryan26@gmail.com**  
 - 🌐 Portfolio: [a-portfolioo.netlify.app](https://a-portfolioo.netlify.app)  
 
@@ -31,8 +31,14 @@
 ---
 
 ## 💻 Tech Stack
+### 🖥️ **Web & App Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,python,mysql,figma,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma&perline=8" />
+</p>
+
+### 🧠 **AI & Data Science**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas,matplotlib,mysql&perline=8" />
 </p>
 
 ---
@@ -55,9 +61,10 @@ Built with **React.js · Node.js · Express · MongoDB · TailwindCSS · Cloudin
 ---
 
 ## 🏆 Achievements
-- 🧠 Built **Cardite**, a full-featured SaaS used by real users  
-- 💻 Created multiple production-ready web apps using **React + Node.js**  
-- 🚀 Deployed 10+ live projects on **Netlify** and **Vercel**  
+- 🧠 Built **Cardite**, a production-grade SaaS used by real users  
+- 🤖 Completed AI & ML coursework using **TensorFlow** and **Scikit-learn**  
+- 💻 Created multiple full-stack web apps integrating **data visualization & analytics**  
+- 🚀 Deployed 10+ live projects on **Netlify**, **Vercel**, and **Render**  
 
 ---
 
@@ -67,4 +74,4 @@ Built with **React.js · Node.js · Express · MongoDB · TailwindCSS · Cloudin
 
 ---
 
-⭐ **"Turning ideas into intelligent and impactful digital experiences."**
+⭐ **"Blending Web Development and Artificial Intelligence to build smarter digital experiences."**
