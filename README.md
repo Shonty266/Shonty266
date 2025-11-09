@@ -88,5 +88,5 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, focusin
 ### “Where code meets creativity — and logic meets intelligence.”
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Shonty266&icon=6&color=1E1E1E" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shonty266&label=Profile%20Views&color=1E1E1E&style=flat-square" alt="profile views"/>
 </p>
