@@ -75,13 +75,14 @@ React.js · TailwindCSS · Node.js · Express.js · MongoDB · Mongoose · Cloud
 ---
 
 ### 🌐 Global HSE Associates – Corporate Website (Client Project)  
+🔗 https://globalhseassociates.co.in  
 
-**Client-facing corporate website** built to showcase services and industry expertise.
+Client-facing **corporate website** built to showcase services and industry expertise.
 
 **What I Delivered**
-- Responsive, modern UI using React.js and TailwindCSS  
-- Automated contact and lead generation forms using EmailJS  
-- Performance and UX optimizations to improve engagement  
+- Designed and developed a responsive, modern UI using React.js and TailwindCSS  
+- Implemented automated contact and lead generation forms using EmailJS  
+- Improved performance and user experience through responsive design and Tailwind optimization  
 
 **Tech Stack:**  
 React.js · TailwindCSS · JavaScript · Supabase · EmailJS  
