@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Aryan  
-### 💻 Full Stack Developer (MERN) | 🤖 AI & Data Science Explorer  
+### 💻 Developer | 🤖 AI & Data Science Explorer  
 
-Full Stack Developer with hands-on experience building **production-ready SaaS platforms** using the MERN stack.  
+Developer with hands-on experience building **production-ready SaaS platforms** using the MERN stack.  
 I enjoy creating scalable web applications, integrating payments, analytics dashboards, and experimenting with **AI-powered features**.  
 Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, with a growing focus on **automation, analytics, and applied machine learning**.
 
@@ -13,6 +13,7 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, with a 
 
 - 🔭 Building **Cardite** — a production-grade digital invitation SaaS  
 - 🧠 Exploring **Deep Learning**, **LangChain**, and **AI-integrated web systems**  
+- 📊 Sharing ML experiments, notebooks, and learning progress on **Kaggle**  
 - 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **TailwindCSS**, or **AI/ML**  
 - 📫 Email: [work.aryan26@gmail.com](mailto:work.aryan26@gmail.com)  
 - 🌐 Portfolio: https://a-portfolioo.netlify.app  
@@ -21,7 +22,8 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, with a 
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-h)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-h)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aryan266)
 [![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:work.aryan26@gmail.com)
 
 ---
@@ -38,24 +40,6 @@ Python · Pandas · NumPy · Matplotlib · Scikit-learn · Statistics · Data Vi
 
 ## 🚀 Featured Projects  
 
-### 🪄 Cardite – Digital Invitation & Event Card Platform  
-🔗 https://cardite.in  
-
-**Cardite** is a **production-grade SaaS platform** for creating and sharing digital invitations via **link, WhatsApp, or PDF**.
-
-**What I Built**
-- Designed and developed the complete MERN-based SaaS architecture  
-- Implemented guest list management, real-time RSVP tracking, auto reminders, and notifications  
-- Integrated **Razorpay** for premium templates and subscription payments  
-- Built a dedicated **admin dashboard** with analytics and real-time monitoring using Chart.js  
-- Optimized backend and media delivery using **Cloudinary**  
-- Deployed on a **custom domain** for a professional SaaS presence  
-
-**Tech Stack:**  
-React.js · TailwindCSS · Node.js · Express.js · MongoDB · Cloudinary · Razorpay · Chart.js · Google OAuth  
-
----
-
 ### 🚀 ShowYourBuild – Developer Portfolio & Project Showcase Platform  
 🔗 https://show-your-build.netlify.app  
 
@@ -71,6 +55,24 @@ React.js · TailwindCSS · Node.js · Express.js · MongoDB · Cloudinary · Raz
 
 **Tech Stack:**  
 React.js · TailwindCSS · Node.js · Express.js · MongoDB · Mongoose · Cloudinary · JWT · Passport.js · Recharts · Nodemailer  
+
+---
+
+### 🪄 Cardite – Digital Invitation & Event Card Platform  
+🔗 https://cardite.in  
+
+**Cardite** is a **production-grade SaaS platform** for creating and sharing digital invitations via **link, WhatsApp, or PDF**.
+
+**What I Built**
+- Designed and developed the complete MERN-based SaaS architecture  
+- Implemented guest list management, real-time RSVP tracking, auto reminders, and notifications  
+- Integrated **Razorpay** for premium templates and subscription payments  
+- Built a dedicated **admin dashboard** with analytics and real-time monitoring using Chart.js  
+- Optimized backend and media delivery using **Cloudinary**  
+- Deployed on a **custom domain** for a professional SaaS presence  
+
+**Tech Stack:**  
+React.js · TailwindCSS · Node.js · Express.js · MongoDB · Cloudinary · Razorpay · Chart.js · Google OAuth  
 
 ---
 
