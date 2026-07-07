@@ -16,7 +16,7 @@ Currently pursuing **M.Tech in Artificial Intelligence & Data Science**, with a 
 - 📊 Sharing ML experiments, notebooks, and learning progress on **Kaggle**  
 - 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **TailwindCSS**, or **AI/ML**  
 - 📫 Email: [work.aryan26@gmail.com](mailto:work.aryan26@gmail.com)  
-- 🌐 Portfolio: https://a-portfolioo.vercel.app  
+- 🌐 Portfolio: [https://www.aryanh.online/](https://www.aryanh.online)
 
 ---
 
