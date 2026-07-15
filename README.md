@@ -41,7 +41,7 @@ Python · Pandas · NumPy · Matplotlib · Scikit-learn · Statistics · Data Vi
 ## 🚀 Featured Projects  
 
 ### 🚀 ShowYourBuild – Developer Portfolio & Project Showcase Platform  
-🔗 https://show-your-build.netlify.app  
+🔗 https://showyourbuild.aryanh.online
 
 **ShowYourBuild** is a full-stack platform that allows developers and students to **showcase real-world projects with live previews**, discover other creators’ work, and gain visibility beyond resumes.
 
