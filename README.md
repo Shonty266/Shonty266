@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Aryan  
-### 💻 Developer | 🤖 AI & Data Science Explorer  
+# 👋 Hey, I'm Aryan Hinglajia  
+### AI Engineer & Full Stack Developer 
 
 Developer with hands-on experience building **production-ready SaaS platforms** using the MERN stack.  
 I enjoy creating scalable web applications, integrating payments, analytics dashboards, and experimenting with **AI-powered features**.  
