@@ -86,6 +86,8 @@ Currently pursuing an **M.Tech in Artificial Intelligence & Data Science**, I’
 
 ## 🏥 Medify CRM — Hospital Management System with ML-Driven Risk Prediction
 
+🔗 **[View Project](https://www.aryanh.online/projects/medify-hospital-crm)**
+
 A full-stack hospital management system integrating **machine learning inference into real-world healthcare workflows**.
 
 ### What I Built
@@ -107,6 +109,8 @@ A full-stack hospital management system integrating **machine learning inference
 ---
 
 ## 🛍️ Aura Scents — Luxury E-Commerce Platform
+
+🔗 **[View Project](https://www.aryanh.online/projects/aureascents-professional-ecommerce-website)**
 
 A production-ready e-commerce platform built using **Next.js with a modern relational backend architecture**.
 
@@ -130,6 +134,8 @@ A production-ready e-commerce platform built using **Next.js with a modern relat
 
 ## 🔎 ShowYourBuild — Developer Portfolio & Project Showcase Platform
 
+🔗 **[View Project](https://www.aryanh.online/projects/showyourbuild)**
+
 A full-stack platform that allows developers and students to **showcase projects, discover other creators and track project engagement**.
 
 ### What I Built
@@ -138,7 +144,7 @@ A full-stack platform that allows developers and students to **showcase projects
 * Implemented rich media support for project showcases
 * Added project discovery and search functionality
 * Implemented filtering based on project technologies
-* Built engagement analytics for projects and users
+* Built analytics dashboards for project and user engagement
 * Implemented secure authentication using:
 
   * Google OAuth
@@ -151,6 +157,7 @@ A full-stack platform that allows developers and students to **showcase projects
 ### Tech Stack
 
 `React.js` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Cloudinary` · `OAuth 2.0` · `JWT` · `AI APIs`
+
 
 ---
 
@@ -288,11 +295,8 @@ Working with:
 # 🎓 Education
 
 ### Master of Technology — Artificial Intelligence & Data Science
-
 **Sigma University, Vadodara**
-
 Expected Graduation: **April 2027**
-
 Relevant Coursework:
 
 `Machine Learning` · `Deep Learning` · `ANN` · `CNN` · `RNN` · `Transformer Architectures`
@@ -300,9 +304,7 @@ Relevant Coursework:
 ---
 
 ### Bachelor of Technology — Computer Science & Engineering
-
 **Parul University, Vadodara**
-
 Graduated: **April 2025**
 
 ---
