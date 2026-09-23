@@ -277,16 +277,18 @@ Working with:
 
 ---
 
-# 📈 GitHub Insights
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&bg_color=111212&border_color=2a2a2a&title_color=FFFFFF&text_color=CCCCCC&icon_color=61DAFB" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shonty266&show_icons=true&theme=dark&hide_border=true&bg_color=111212&title_color=FFFFFF&text_color=CCCCCC&icon_color=61DAFB"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&theme=dark&hide_border=true&bg_color=111212&title_color=FFFFFF&text_color=CCCCCC"
+    height="180"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shonty266&layout=compact&bg_color=111212&border_color=2a2a2a&title_color=FFFFFF&text_color=CCCCCC" />
-</p>
-
 ---
 
 # 🎓 Education
