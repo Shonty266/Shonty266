@@ -146,7 +146,6 @@ A full-stack platform that allows developers and students to **showcase projects
 * Implemented filtering based on project technologies
 * Built analytics dashboards for project and user engagement
 * Implemented secure authentication using:
-
   * Google OAuth
   * GitHub OAuth
   * JWT sessions
@@ -195,13 +194,11 @@ The system explores how multiple specialized agents can work together to produce
 * Implementing retrieval and reasoning pipelines
 * Exploring **RAG architectures**
 * Working with hybrid retrieval using:
-
   * BM25
   * Dense retrieval
   * Reciprocal Rank Fusion (RRF)
 * Using vector databases for semantic search
 * Evaluating model confidence using:
-
   * Expected Calibration Error (ECE)
   * Brier Score
 * Experimenting with cross-agent consistency and verification
